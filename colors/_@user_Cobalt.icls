@@ -1,16 +1,16 @@
 <scheme name="_@user_Cobalt" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.5" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-02-28T13:42:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-03-05T09:21:57</property>
+    <property name="modified">2018-08-17T11:38:18</property>
     <property name="originalScheme">Cobalt</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="28" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
