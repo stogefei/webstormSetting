@@ -8,6 +8,7 @@
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="commomtext.js" type="PLAIN_TEXT" />
       <mapping pattern="reportJug.json" type="PLAIN_TEXT" />
+      <mapping ext="sty;" type="PLAIN_TEXT" />
       <mapping ext="blob" type="PLAIN_TEXT" />
       <mapping ext="jsc" type="PLAIN_TEXT" />
       <mapping ext="stly" type="Stylus" />
