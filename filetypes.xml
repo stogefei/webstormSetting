@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="wxss" type="CSS" />
+      <mapping ext="wxml" type="HTML" />
+      <removed_mapping ext="htm" type="HTML" />
+      <mapping pattern="jsx" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="commomtext.js" type="PLAIN_TEXT" />
+      <mapping pattern="reportJug.json" type="PLAIN_TEXT" />
+      <mapping ext="sty;" type="PLAIN_TEXT" />
+      <mapping ext="blob" type="PLAIN_TEXT" />
+      <mapping ext="jsc" type="PLAIN_TEXT" />
+      <mapping ext="stly" type="Stylus" />
+      <mapping ext="wpy" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>
