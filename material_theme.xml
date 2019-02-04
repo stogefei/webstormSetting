@@ -2,8 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.5-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="1890ff" />
+    <option name="accentColor" value="40eeff" />
     <option name="userId" value="-fba8704:1687e2346f5:-8000" />
   </component>
 </application>
