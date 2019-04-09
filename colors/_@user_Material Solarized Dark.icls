@@ -1,23 +1,22 @@
 <scheme name="_@user_Material Solarized Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-29T20:43:28</property>
+    <property name="created">2019-04-01T15:56:49</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-29T22:26:05</property>
+    <property name="ideVersion">2019.1.0.0</property>
+    <property name="modified">2019-04-01T16:16:08</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
@@ -56,6 +55,22 @@
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
     <option name="SEPARATOR_BELOW_COLOR" value="113a46" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="d33682" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="d33682" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="d33682" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="d33682" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="d33682" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="d33682" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="d33682" />
+    <option name="ScrollBar.Mac.thumbColor" value="d33682" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="d33682" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="d33682" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="d33682" />
+    <option name="ScrollBar.Transparent.thumbColor" value="d33682" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="d33682" />
+    <option name="ScrollBar.hoverThumbColor" value="d33682" />
+    <option name="ScrollBar.thumbBorderColor" value="d33682" />
+    <option name="ScrollBar.thumbColor" value="d33682" />
     <option name="TEARLINE_COLOR" value="586e75" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="244d4e" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="1a414a" />
@@ -915,6 +930,11 @@
       <value>
         <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
