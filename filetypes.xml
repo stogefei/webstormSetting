@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="wepy" type="Vue.js" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
