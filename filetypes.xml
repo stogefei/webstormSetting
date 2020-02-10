@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*wxss" type="CSS" />
       <mapping pattern="*wxml" type="HTML" />
+      <mapping pattern=".env.debug-zaf" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
