@@ -1,10 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="40eeff" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="accentColor" value="32c9ff" />
+    <option name="highlightColor" value="37c8cb" />
     <option name="userId" value="-fba8704:1687e2346f5:-8000" />
     <option name="version" value="4.2.2" />
   </component>
