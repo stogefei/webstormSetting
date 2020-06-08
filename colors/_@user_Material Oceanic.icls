@@ -4,15 +4,19 @@
     <property name="created">2020-05-10T13:38:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2020-06-05T17:37:24</property>
+    <property name="modified">2020-06-02T15:58:07</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
