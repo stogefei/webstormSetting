@@ -4,7 +4,7 @@
     <property name="created">2020-05-10T13:38:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2020-06-02T15:58:07</property>
+    <property name="modified">2020-06-08T11:39:02</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
