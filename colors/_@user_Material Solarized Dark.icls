@@ -4,7 +4,7 @@
     <property name="created">2019-04-01T15:56:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-01T16:16:08</property>
+    <property name="modified">2020-09-24T10:50:06</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1477,6 +1477,31 @@
       <value>
         <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="123a37" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="93a3b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="123144" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="63943" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="27282f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
