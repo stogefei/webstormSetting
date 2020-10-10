@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="datatime" value="$datatime$" shortcut="TAB" description="press tab" toReformat="false" toShortenFQNames="true">
+    <variable name="datatime" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="/**&#10; * @Description:&#10; * @author AoFei Zhu&#10; * @date $date$&#10;*/" description="注释描述" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
