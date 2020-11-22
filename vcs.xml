@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.h3yun.com" />
           <option name="userName" value="zhuaf@authine.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codeup.aliyun.com" />
+          <option name="userName" value="f00_line" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
