@@ -12,9 +12,11 @@
         <entry key="Darcula" value="Darcula" />
         <entry key="Default" value="Mac Classic" />
         <entry key="Dracula" value="Mac Classic" />
+        <entry key="EasyOnTheEyes" value="Mac Classic" />
         <entry key="GitHub (Material)" value="Mac Classic" />
         <entry key="Github" value="GitHub" />
         <entry key="High сontrast" value="Mac Classic" />
+        <entry key="Light Owl" value="Mac Classic" />
         <entry key="Material Darker" value="Mac Classic" />
         <entry key="Material Deep Ocean" value="Mac Classic" />
         <entry key="Material Lighter" value="Mac Classic" />
@@ -24,6 +26,11 @@
         <entry key="Material Solarized Light" value="Mac Classic" />
         <entry key="Monokai" value="Monokai" />
         <entry key="Monokai Pro" value="Mac Classic" />
+        <entry key="Night Owl" value="Mac Classic" />
+        <entry key="One Dark" value="Mac Classic" />
+        <entry key="One Dark italic" value="Mac Classic" />
+        <entry key="One Dark vivid" value="Mac Classic" />
+        <entry key="One Dark vivid italic" value="Mac Classic" />
         <entry key="Railscasts" value="RailsCasts" />
         <entry key="Twilight" value="Twilight" />
         <entry key="VibrantInk" value="VibrantInk" />
