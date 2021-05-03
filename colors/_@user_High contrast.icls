@@ -3,7 +3,7 @@
     <property name="created">2021-02-01T13:55:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-05-01T16:31:11</property>
+    <property name="modified">2021-05-03T12:02:45</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -473,7 +473,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -569,7 +569,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
