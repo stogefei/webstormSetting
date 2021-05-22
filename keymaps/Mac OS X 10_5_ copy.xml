@@ -6,6 +6,6 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewJavaScriptFile">
-    <keyboard-shortcut first-keystroke="shift j" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
 </keymap>
