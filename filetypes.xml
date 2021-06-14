@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="map-fun" type="AUTO_DETECTED" />
       <mapping pattern="table-pagination" type="AUTO_DETECTED" />
       <mapping pattern="query-modal-mixin-ts.ts" type="AUTO_DETECTED" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
