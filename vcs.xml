@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.h3yun.net" />
           <option name="userName" value="zhuaf" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.98.197.100:8888" />
+          <option name="userName" value="zhuaofei" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
