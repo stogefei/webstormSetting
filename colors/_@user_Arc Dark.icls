@@ -4,7 +4,7 @@
     <property name="created">2020-09-24T10:48:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2022-02-25T11:32:03</property>
+    <property name="modified">2022-02-28T09:28:53</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -310,7 +310,7 @@
         <option name="FOREGROUND" value="47bc9b" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="afc4db" />
@@ -331,7 +331,7 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="5294e2" />
