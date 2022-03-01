@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="table-pagination" type="AUTO_DETECTED" />
       <mapping pattern="query-modal-mixin-ts.ts" type="AUTO_DETECTED" />
+      <mapping ext="js" type="JavaScript" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
