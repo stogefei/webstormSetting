@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-02-01T13:55:04</property>
+    <property name="created">2022-03-20T15:49:59</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2022-03-10T09:15:04</property>
+    <property name="ideVersion">2021.3.0.0</property>
+    <property name="modified">2022-03-20T15:51:43</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,40 +13,61 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
+    <option name="ActionButton.hoverBackground" value="dbdbdcc0" />
+    <option name="ActionButton.iconTextForeground" value="7f7f7f" />
+    <option name="ActionButton.pressedBackground" value="dbdbdc" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="e5e5e6" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="e5e5e6" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="232324" />
+    <option name="Bookmark.iconBackground" value="2979ff" />
+    <option name="BookmarkIcon.background" value="2979ff" />
+    <option name="BookmarkMnemonicIcon.background" value="e5e5e6" />
+    <option name="BookmarkMnemonicIcon.borderColor" value="e5e5e6" />
+    <option name="BookmarkMnemonicIcon.foreground" value="232324" />
     <option name="CARET_COLOR" value="557ecf" />
     <option name="CARET_ROW_COLOR" value="f2f2f2" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
     <option name="DELETED_LINES_COLOR" value="e4564a" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c18401" />
+    <option name="DIAGRAM_COARSE_GRID" value="eaeaeb" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="383a42" />
+    <option name="DIAGRAM_FINE_GRID" value="d3d4d5" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="4078f2" />
+    <option name="DIAGRAM_HOT_SPOTS" value="526fff" />
     <option name="DIAGRAM_INNER_EDGE" value="a626a4" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="fafafa" />
+    <option name="DIAGRAM_NODE_BORDER" value="d3d4d5" />
     <option name="DIAGRAM_NODE_HEADER" value="eaeaeb" />
+    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="dbdbdc" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="fafafa" />
     <option name="DIAGRAM_NOTE_BORDER" value="383a42" />
+    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="dbdbdc" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="986801" />
+    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="2979ff" />
+    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="2979ff" />
+    <option name="DIAGRAM_SNAPPING_LINES" value="2979ff" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="fdfdfd" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="fefefe" />
-    <option name="DOCUMENTATION_COLOR" value="fafafa" />
+    <option name="DOCUMENTATION_COLOR" value="eaeaeb" />
     <option name="DOC_COMMENT_GUIDE" value="9d9d9f" />
     <option name="DOC_COMMENT_LINK" value="184bc" />
     <option name="FILESTATUS_ADDED" value="50a14e" />
-    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_COPIED" value="50a14e" />
     <option name="FILESTATUS_DELETED" value="a0a1a7" />
     <option name="FILESTATUS_HIJACKED" value="a626a4" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
@@ -62,24 +83,60 @@
     <option name="FILESTATUS_SUPPRESSED" value="383a42" />
     <option name="FILESTATUS_SWITCHED" value="4078f2" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="50a14e" />
+    <option name="FILESTATUS_addedOutside" value="57b6c2" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="4078f2" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e5e5e5" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="d3d4d5" />
     <option name="INFORMATION_HINT" value="fafafa" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="fafafa" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="e5e5e6" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="eaeaeb" />
+    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="2979ff" />
+    <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="ffffff" />
+    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="eaeaeb" />
+    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="383a42" />
+    <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="184bc" />
+    <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="2979ff" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="dbdbdc" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="7f7f7f" />
     <option name="LINE_NUMBERS_COLOR" value="9d9d9f" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b216f" />
+    <option name="LOOKUP_COLOR" value="eaeaeb" />
     <option name="METHOD_SEPARATORS_COLOR" value="d3d4d5" />
     <option name="MODIFIED_LINES_COLOR" value="526fff" />
+    <option name="MODIFIED_TAB_ICON" value="2979ff" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
+    <option name="MT_FILESTATUS_ADDED" value="50a14e" />
+    <option name="MT_FILESTATUS_COPIED" value="50a14e" />
+    <option name="MT_FILESTATUS_DELETED" value="a0a1a7" />
+    <option name="MT_FILESTATUS_HIJACKED" value="a626a4" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="MT_FILESTATUS_MERGED" value="4078f2" />
+    <option name="MT_FILESTATUS_MODIFIED" value="986801" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="MT_FILESTATUS_RENAMED" value="a626a4" />
+    <option name="MT_FILESTATUS_SUPPRESSED" value="383a42" />
+    <option name="MT_FILESTATUS_SWITCHED" value="4078f2" />
+    <option name="MT_FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="MT_FILESTATUS_addedOutside" value="57b6c2" />
+    <option name="MT_FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="MT_FILESTATUS_modifiedOutside" value="4078f2" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_MODIFIED" value="e2c08d" />
     <option name="MT_RENAMED" value="6494ed" />
     <option name="MT_SUPPRESSED" value="383a42" />
+    <option name="MnemonicIcon.background" value="e5e5e6" />
+    <option name="MnemonicIcon.borderColor" value="e5e5e6" />
+    <option name="MnemonicIcon.foreground" value="232324" />
     <option name="NOTIFICATION_BACKGROUND" value="f2f2f2" />
     <option name="NOT_CHANGED" value="232324" />
     <option name="PROMOTION_PANE" value="d3d4d5" />
@@ -198,14 +255,19 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="79b4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="2979ff" />
+      </value>
+    </option>
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -283,7 +345,7 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -430,7 +492,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -455,11 +517,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -764,7 +826,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a5c261" />
+        <option name="BACKGROUND" value="d5e9cd" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -787,9 +849,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e4564a" />
@@ -1076,7 +1138,7 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="" />
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -1158,22 +1220,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbe4" />
+        <option name="BACKGROUND" value="f0f1f7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ebfbeb" />
+        <option name="BACKGROUND" value="ecf7f3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbebfb" />
+        <option name="BACKGROUND" value="f5f8f1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e5f8f8" />
+        <option name="BACKGROUND" value="fbf4ef" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fbedec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fbe7e8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1190,6 +1262,17 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="232423" />
+        <option name="BACKGROUND" value="dbdbdc" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+      </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -1250,6 +1333,11 @@
         <option name="FOREGROUND" value="4078f2" />
       </value>
     </option>
+    <option name="JS.GET_SET">
+      <value>
+        <option name="FOREGROUND" value="184bc" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -1259,6 +1347,11 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="986801" />
+      </value>
+    </option>
+    <option name="JS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="184bc" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1293,6 +1386,11 @@
       </value>
     </option>
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PROTOTYPE">
+      <value>
+        <option name="FOREGROUND" value="e4564a" />
+      </value>
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="50a14e" />
@@ -1316,6 +1414,12 @@
     <option name="JSP_DIRECTIVE_BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
+      <value>
+        <option name="FOREGROUND" value="232324" />
+        <option name="BACKGROUND" value="dbdbdc" />
       </value>
     </option>
     <option name="JUPYTER_SELECTED_CELL">
@@ -1383,7 +1487,9 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="57b6c2" />
+      </value>
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -1428,18 +1534,18 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="a5c261" />
+        <option name="BACKGROUND" value="c9e67f" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="bc3f3c" />
+        <option name="BACKGROUND" value="ff4b4c" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="12404b" />
+        <option name="BACKGROUND" value="d9ff" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -2762,7 +2868,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a0a1a7" />
+        <option name="FOREGROUND" value="222329" />
       </value>
     </option>
     <option name="Number">
@@ -2917,6 +3023,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="e4564a" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="e4564a" />
@@ -2932,6 +3043,11 @@
         <option name="FOREGROUND" value="4078f2" />
       </value>
     </option>
+    <option name="PY.IMPORT">
+      <value>
+        <option name="FOREGROUND" value="e4564a" />
+      </value>
+    </option>
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -2941,6 +3057,11 @@
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="383a42" />
+      </value>
+    </option>
+    <option name="PY.NONE">
+      <value>
+        <option name="FOREGROUND" value="986801" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
@@ -2953,6 +3074,11 @@
       <value>
         <option name="FOREGROUND" value="4078f2" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PRINT">
+      <value>
+        <option name="FOREGROUND" value="219598" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
@@ -2969,6 +3095,11 @@
     <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="50a14e" />
+      </value>
+    </option>
+    <option name="PY.TRUE_FALSE">
+      <value>
+        <option name="FOREGROUND" value="986801" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
@@ -3210,6 +3341,11 @@
         <option name="EFFECT_COLOR" value="e4564a" />
         <option name="ERROR_STRIPE_COLOR" value="e4564a" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="R_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="383a42" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
@@ -3568,10 +3704,25 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TS.ANY">
+      <value>
+        <option name="FOREGROUND" value="184bc" />
+      </value>
+    </option>
+    <option name="TS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="184bc" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="50a14e" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.PRIM_TYPE">
+      <value>
+        <option name="FOREGROUND" value="184bc" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
@@ -3688,7 +3839,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="e4564a" />

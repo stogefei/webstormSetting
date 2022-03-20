@@ -1,9 +1,9 @@
 <scheme name="_@user_Github" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-09-24T10:48:49</property>
+    <property name="created">2022-03-20T15:49:59</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2022-03-10T09:15:04</property>
+    <property name="ideVersion">2021.3.0.0</property>
+    <property name="modified">2022-03-20T15:51:43</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -25,31 +25,6 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffc8c8" />
-      </value>
-    </option>
-    <option name="BUILDOUT.KEY">
-      <value>
-        <option name="FOREGROUND" value="a71d5d" />
-      </value>
-    </option>
-    <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
-      <value>
-        <option name="FOREGROUND" value="a71d5d" />
-      </value>
-    </option>
-    <option name="BUILDOUT.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="969896" />
-      </value>
-    </option>
-    <option name="BUILDOUT.SECTION_NAME">
-      <value>
-        <option name="FOREGROUND" value="86b3" />
-      </value>
-    </option>
-    <option name="BUILDOUT.VALUE">
-      <value>
-        <option name="FOREGROUND" value="183691" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -894,22 +869,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="ffffe8" />
+        <option name="BACKGROUND" value="f4f5fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fff0" />
+        <option name="BACKGROUND" value="f0fbf7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff0ff" />
+        <option name="BACKGROUND" value="f9fcf5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="eafdfd" />
+        <option name="BACKGROUND" value="fff8f3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fff1f0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffebec" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1687,6 +1672,11 @@
         <option name="FOREGROUND" value="86b3" />
       </value>
     </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ccccff" />
+      </value>
+    </option>
     <option name="SLIM_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -1834,6 +1824,11 @@
       <value>
         <option name="BACKGROUND" value="ffe4ff" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffcdff" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
