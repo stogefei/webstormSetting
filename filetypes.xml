@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="md" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
