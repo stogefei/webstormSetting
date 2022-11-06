@@ -4,7 +4,9 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.0/bin/node" />
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.10.0/bin/node" />
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.0.0/bin/node" />
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.5/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.5/bin/node">
+      <version-cache version="14.17.5" last-modified="1629606327820" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.15.4/bin/node" />
   </component>
 </application>
